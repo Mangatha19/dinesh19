@@ -1,0 +1,6 @@
+$ cd docker-demo
+$ ls
+Dockerfile index.js package.json
+$ docker build
+[..]
+$
